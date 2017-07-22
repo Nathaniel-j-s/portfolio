@@ -127,6 +127,13 @@ aside {
 
 }
 
+.calcPic{
+    width: 100%;
+    height: 252px;
+    background: url('../img/calculator.jpg') no-repeat;
+    background-size: 100%;
+}
+
 .contactMe{
     color:white;
 }
