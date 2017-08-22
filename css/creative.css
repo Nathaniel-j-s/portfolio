@@ -134,6 +134,13 @@ aside {
     background-size: 100%;
 }
 
+.twitchPic{
+    width: 100%;
+    height: 252px;
+    background: url('../img/twitch.png') no-repeat;
+    background-size: 100%;
+}
+
 .contactMe{
     color:white;
 }
